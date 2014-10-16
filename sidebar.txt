@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[awv:home|Door43 (awv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-awv|d43-awv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-awv/archive/master.zip|d43-awv.zip]]
+
+**Recent Changes**
+{{changes>ns = awv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/awv|Ethnologue data]]
+
